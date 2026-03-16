@@ -87,7 +87,7 @@ Claim Frequency = AVERAGE(Claims[Claim_Frequency])
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/beheradinesh8280/Insurance-Risk-Claims-Dashboard/blob/main/Screenshot.png)
 
 ## Business Value
 
@@ -99,9 +99,6 @@ This dashboard helps insurance companies:
 • Improve risk management
 • Monitor insurance portfolio performance
 
-## Author
 
-Dinesh Kumar Behera
-Aspiring Data Analyst
 
 Skills: Python, SQL, Power BI, Excel, Data Visualization
